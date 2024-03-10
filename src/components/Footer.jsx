@@ -39,7 +39,7 @@ function Footer() {
               </Link>
             </li>
             <li>
-              <Link href="#" className="hover:text-green-600 me-4 md:me-6">
+              <Link href="https://wa.me/c/919315763060" className="hover:text-green-600 me-4 md:me-6">
                 <BsWhatsapp size={35} />
               </Link>
             </li>
