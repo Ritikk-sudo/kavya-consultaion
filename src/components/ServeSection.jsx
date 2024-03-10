@@ -35,7 +35,10 @@ function ServeSection() {
           <div className="flex justify-center">
             <MdOutlineShowChart size={50} />
           </div>
-          <h2 className="text-center">Sales and Marketing</h2>
+          <h2 className="text-center">
+            Sales <br />
+            and Marketing
+          </h2>
         </button>
         <button className="bg-white text-black my-6 mx-6 py-9 px-28 sm:px-36 rounded-lg">
           <div className="flex justify-center">
@@ -61,11 +64,13 @@ function ServeSection() {
           </div>
           <h2 className="text-center">Technical</h2>
         </button>
-        <button className="bg-white text-black my-6 mx-6 py-9 px-28 sm:px-36 rounded-lg">
+        <button className="bg-white text-black my-6 mx-6 py-9 px-20 sm:px-36 rounded-lg">
           <div className="flex justify-center">
             <MdPrecisionManufacturing size={50} />
           </div>
-          <h2 className="text-center">Manufacturing & Operations</h2>
+          <h2 className="text-center">
+            Manufacturing <br />& Operations
+          </h2>
         </button>
       </div>
     </div>
