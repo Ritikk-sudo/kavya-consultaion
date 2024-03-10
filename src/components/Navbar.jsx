@@ -64,7 +64,7 @@ const Navbar = () => {
         </button>
       </header>
       {isOpen && (
-        <ul className="absolute z-10 flex justify-end items-center flex-col rounded-md shadow-md p-4 gap-4 ml-[70%] mr-6 -mt-6 bg-slate-800 font-semibold text-white">
+        <ul className="absolute z-10 flex justify-center items-center flex-col rounded-md shadow-md p-7 gap-6 ml-[50%] mr-0 -mt-6 bg-slate-800 font-semibold text-white">
           <li>
             <Link
               onClick={showMenu}

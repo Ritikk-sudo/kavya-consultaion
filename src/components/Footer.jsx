@@ -46,7 +46,7 @@ function Footer() {
           </ul>
         </div>
 
-        <div className="text-sm md:text-lg">
+        <div className="text-xs md:text-lg">
           <p className="text-white text-center md:text-end">
             Contact No:{" "}
             <Link className="hover:text-blue-400" href="#">

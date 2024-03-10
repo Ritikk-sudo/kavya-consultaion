@@ -31,7 +31,7 @@ function ServeSection() {
           </div>
           <h2 className="text-center">BPO</h2>
         </button>
-        <button className="bg-white text-black my-6 mx-6 py-9 px-28 sm:px-36 rounded-lg">
+        <button className="bg-white text-black my-6 mx-6 py-9 px-20 sm:px-36 rounded-lg">
           <div className="flex justify-center">
             <MdOutlineShowChart size={50} />
           </div>

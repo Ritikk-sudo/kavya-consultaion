@@ -14,10 +14,9 @@ function page() {
         Contact Us
       </h2>
 
-      <div className="text-lg md:flex md:flex-col md:w-[60%] md:mx-auto md:text-2xl rounded-xl bg-slate-200 shadow-xl py-4 px-9 md:p-16">
+      <div className="text-sm md:flex md:flex-col md:w-[60%] md:mx-auto md:text-2xl rounded-xl bg-slate-200 shadow-xl py-4 px-6 md:p-16">
         <h3 className="flex ">
           <FaMobileAlt size={40} />
-
           <Link className="hover:text-blue-400 ml-6" href="#">
             +91 9315763060
           </Link>
