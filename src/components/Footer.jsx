@@ -48,17 +48,17 @@ function Footer() {
 
         <div className="text-xs md:text-lg">
           <p className="text-white text-center md:text-end">
-            Contact No:{" "}
+            Contact:{" "}
             <Link className="hover:text-blue-400" href="#">
               +91 9315763060
             </Link>
             <br />
-            Email Id:
+            Email:
             <Link className="hover:text-blue-400" href="#">
               kavayaconsultancy@gmail.com
             </Link>
             <br />
-            Insta Page:{" "}
+            Insta:{" "}
             <Link
               className="hover:text-blue-400"
               href="https://www.instagram.com/kavayaplacement?igsh=MXBmc3Ribm9vZWNrdA=="
