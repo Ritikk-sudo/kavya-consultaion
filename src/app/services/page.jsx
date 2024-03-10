@@ -86,7 +86,7 @@ function page() {
             </div>
           </div>
           <div className="xl:w-1/4 md:w-1/2 p-4">
-            <div className="bg-gray-100 p-9 rounded-lg">
+            <div className="bg-gray-100 p-11 rounded-lg">
               <MdPrecisionManufacturing size={100} />
 
               <h2 className="text-lg text-gray-900 font-medium title-font mb-4">
