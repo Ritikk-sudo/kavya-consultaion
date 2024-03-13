@@ -8,11 +8,11 @@ function HelpSection() {
       </h2>
       <p className="text-center text-black mx-6 md:mx-64 mb-6">
         Kavaya placement & Consultancy offers a range of services that can help
-        individual and organisation a like kavaya placement &consultancy provide
-        career counselling and guide to help job seekersto find their ideal
-        jobs. Kavaya placement &consultancy provided best recruitment in Delhi
-        ncr we are just a bridge between the company and the candidates. We
-        provide manpowe services and carrier counseling and guid to help
+        individual and organization. kavaya placement & Consultancy provide
+        career counselling and guide to help job seekers to find their ideal
+        jobs. Kavaya placement & Consultancy provided best recruitment in Delhi
+        NCR. We are just a bridge between the company and the candidates. We
+        provide man power services and carrier counseling and guide to help
         jobseeker to find best job.
       </p>
     </div>

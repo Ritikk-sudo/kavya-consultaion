@@ -1,13 +1,11 @@
 import React from "react";
-import img from "../../../public/images/about-img.jpg";
+import img from "../../public/images/about-img.jpg";
 import Image from "next/image";
 
-function page() {
+function About() {
   return (
     <div className="mb-16">
-      <h2 className="font-bold text-2xl text-center mt-11 mb-6">
-        Company Overview
-      </h2>
+      <h2 className="font-bold text-2xl text-center mt-11 mb-6">About Us</h2>
       <p className="text-center mx-8 mb-8 md:mx-64">
         kavaya placement & Consultancy was founded in 2023. By laxmi and our
         managing director mrs Sushma Bhatia our vision to generate employment in
@@ -32,4 +30,4 @@ function page() {
   );
 }
 
-export default page;
+export default About;

@@ -8,9 +8,9 @@ function HeroSection() {
         Good Life Begins With A Good Company
       </h2>
       <p className="text-center mx-6 md:mx-64">
-        Kavaya placement &consultancy provided best recruitment in Delhi ncr we
+        Kavaya placement & Consultancy provided best recruitment in Delhi NCR we
         are just a bridge between the company and the candidates. We provide
-        manpowe services and carrier counseling and guid to help jobseeker to
+        man-power services and carrier counselling and guide to help jobseeker to
         find best job.
       </p>
       <div className="flex items-center justify-center ">

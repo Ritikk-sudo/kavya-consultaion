@@ -3,6 +3,7 @@ import Caraousel from "../components/Caraousel";
 import HeroSection from "../components/HeroSection";
 import HelpSection from "@/components/HelpSection";
 import ServeSection from "@/components/ServeSection";
+import About from "@/components/About";
 
 function page() {
   return (
@@ -11,6 +12,7 @@ function page() {
       <HeroSection />
       <ServeSection />
       <HelpSection />
+      <About />
     </main>
   );
 }
